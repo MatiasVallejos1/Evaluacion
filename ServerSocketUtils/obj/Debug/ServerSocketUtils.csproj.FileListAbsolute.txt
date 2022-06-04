@@ -22,3 +22,9 @@ C:\Users\matia\source\repos\Evaluacion2\ServerSocketUtils\obj\Debug\ServerSocket
 C:\Users\matia\source\repos\Evaluacion2\ServerSocketUtils\obj\Debug\ServerSocketUtils.csproj.CoreCompileInputs.cache
 C:\Users\matia\source\repos\Evaluacion2\ServerSocketUtils\obj\Debug\ServerSocketUtils.dll
 C:\Users\matia\source\repos\Evaluacion2\ServerSocketUtils\obj\Debug\ServerSocketUtils.pdb
+C:\Users\matia\source\repos\Evaluacion Final\ServerSocketUtils\bin\Debug\ServerSocketUtils.dll
+C:\Users\matia\source\repos\Evaluacion Final\ServerSocketUtils\bin\Debug\ServerSocketUtils.pdb
+C:\Users\matia\source\repos\Evaluacion Final\ServerSocketUtils\obj\Debug\ServerSocketUtils.csproj.AssemblyReference.cache
+C:\Users\matia\source\repos\Evaluacion Final\ServerSocketUtils\obj\Debug\ServerSocketUtils.csproj.CoreCompileInputs.cache
+C:\Users\matia\source\repos\Evaluacion Final\ServerSocketUtils\obj\Debug\ServerSocketUtils.dll
+C:\Users\matia\source\repos\Evaluacion Final\ServerSocketUtils\obj\Debug\ServerSocketUtils.pdb

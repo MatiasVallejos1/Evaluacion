@@ -1,0 +1,31 @@
+C:\Users\matia\source\repos\Evaluacion2\Medidores\Medidores\obj\Debug\Medidores.csproj.AssemblyReference.cache
+C:\Users\matia\source\repos\Evaluacion2\Medidores\Medidores\obj\Debug\Medidores.csproj.SuggestedBindingRedirects.cache
+C:\Users\matia\source\repos\Evaluacion2\Medidores\Medidores\obj\Debug\Medidores.csproj.CoreCompileInputs.cache
+C:\Users\matia\source\repos\Evaluacion2\Medidores\obj\Debug\Medidores.csproj.AssemblyReference.cache
+C:\Users\matia\source\repos\Evaluacion2\Medidores\obj\Debug\Medidores.csproj.SuggestedBindingRedirects.cache
+C:\Users\matia\source\repos\Evaluacion2\Medidores\obj\Debug\Medidores.csproj.CoreCompileInputs.cache
+C:\Users\matia\source\repos\Evaluacion2\Medidores\bin\Debug\Medidores.exe.config
+C:\Users\matia\source\repos\Evaluacion2\Medidores\bin\Debug\Medidores.exe
+C:\Users\matia\source\repos\Evaluacion2\Medidores\bin\Debug\Medidores.pdb
+C:\Users\matia\source\repos\Evaluacion2\Medidores\bin\Debug\MedidorModel.exe
+C:\Users\matia\source\repos\Evaluacion2\Medidores\bin\Debug\ServerSocketUtils.dll
+C:\Users\matia\source\repos\Evaluacion2\Medidores\bin\Debug\MedidorModel.pdb
+C:\Users\matia\source\repos\Evaluacion2\Medidores\bin\Debug\MedidorModel.exe.config
+C:\Users\matia\source\repos\Evaluacion2\Medidores\bin\Debug\ServerSocketUtils.pdb
+C:\Users\matia\source\repos\Evaluacion2\Medidores\obj\Debug\Medidores.csproj.CopyComplete
+C:\Users\matia\source\repos\Evaluacion2\Medidores\obj\Debug\Medidores.exe
+C:\Users\matia\source\repos\Evaluacion2\Medidores\obj\Debug\Medidores.pdb
+C:\Users\matia\source\repos\Evaluacion Final\Medidores\bin\Debug\Medidores.exe.config
+C:\Users\matia\source\repos\Evaluacion Final\Medidores\bin\Debug\Medidores.exe
+C:\Users\matia\source\repos\Evaluacion Final\Medidores\bin\Debug\Medidores.pdb
+C:\Users\matia\source\repos\Evaluacion Final\Medidores\bin\Debug\MedidorModel.exe
+C:\Users\matia\source\repos\Evaluacion Final\Medidores\bin\Debug\ServerSocketUtils.dll
+C:\Users\matia\source\repos\Evaluacion Final\Medidores\bin\Debug\MedidorModel.pdb
+C:\Users\matia\source\repos\Evaluacion Final\Medidores\bin\Debug\MedidorModel.exe.config
+C:\Users\matia\source\repos\Evaluacion Final\Medidores\bin\Debug\ServerSocketUtils.pdb
+C:\Users\matia\source\repos\Evaluacion Final\Medidores\obj\Debug\Medidores.csproj.AssemblyReference.cache
+C:\Users\matia\source\repos\Evaluacion Final\Medidores\obj\Debug\Medidores.csproj.SuggestedBindingRedirects.cache
+C:\Users\matia\source\repos\Evaluacion Final\Medidores\obj\Debug\Medidores.csproj.CoreCompileInputs.cache
+C:\Users\matia\source\repos\Evaluacion Final\Medidores\obj\Debug\Medidores.csproj.CopyComplete
+C:\Users\matia\source\repos\Evaluacion Final\Medidores\obj\Debug\Medidores.exe
+C:\Users\matia\source\repos\Evaluacion Final\Medidores\obj\Debug\Medidores.pdb

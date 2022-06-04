@@ -1,0 +1,16 @@
+C:\Users\matia\source\repos\Evaluacion2\MedidorModel\bin\Debug\MedidorModel.exe.config
+C:\Users\matia\source\repos\Evaluacion2\MedidorModel\bin\Debug\MedidorModel.exe
+C:\Users\matia\source\repos\Evaluacion2\MedidorModel\bin\Debug\MedidorModel.pdb
+C:\Users\matia\source\repos\Evaluacion2\MedidorModel\obj\Debug\MedidorModel.csproj.AssemblyReference.cache
+C:\Users\matia\source\repos\Evaluacion2\MedidorModel\obj\Debug\MedidorModel.csproj.SuggestedBindingRedirects.cache
+C:\Users\matia\source\repos\Evaluacion2\MedidorModel\obj\Debug\MedidorModel.csproj.CoreCompileInputs.cache
+C:\Users\matia\source\repos\Evaluacion2\MedidorModel\obj\Debug\MedidorModel.exe
+C:\Users\matia\source\repos\Evaluacion2\MedidorModel\obj\Debug\MedidorModel.pdb
+C:\Users\matia\source\repos\Evaluacion Final\MedidorModel\bin\Debug\MedidorModel.exe.config
+C:\Users\matia\source\repos\Evaluacion Final\MedidorModel\bin\Debug\MedidorModel.exe
+C:\Users\matia\source\repos\Evaluacion Final\MedidorModel\bin\Debug\MedidorModel.pdb
+C:\Users\matia\source\repos\Evaluacion Final\MedidorModel\obj\Debug\MedidorModel.csproj.AssemblyReference.cache
+C:\Users\matia\source\repos\Evaluacion Final\MedidorModel\obj\Debug\MedidorModel.csproj.SuggestedBindingRedirects.cache
+C:\Users\matia\source\repos\Evaluacion Final\MedidorModel\obj\Debug\MedidorModel.csproj.CoreCompileInputs.cache
+C:\Users\matia\source\repos\Evaluacion Final\MedidorModel\obj\Debug\MedidorModel.exe
+C:\Users\matia\source\repos\Evaluacion Final\MedidorModel\obj\Debug\MedidorModel.pdb

@@ -1,6 +1,0 @@
-C:\Users\matia\source\repos\Evaluacion2\MedidoresModel\bin\Debug\MedidoresModel.dll
-C:\Users\matia\source\repos\Evaluacion2\MedidoresModel\bin\Debug\MedidoresModel.pdb
-C:\Users\matia\source\repos\Evaluacion2\MedidoresModel\obj\Debug\MedidoresModel.csproj.AssemblyReference.cache
-C:\Users\matia\source\repos\Evaluacion2\MedidoresModel\obj\Debug\MedidoresModel.csproj.CoreCompileInputs.cache
-C:\Users\matia\source\repos\Evaluacion2\MedidoresModel\obj\Debug\MedidoresModel.dll
-C:\Users\matia\source\repos\Evaluacion2\MedidoresModel\obj\Debug\MedidoresModel.pdb

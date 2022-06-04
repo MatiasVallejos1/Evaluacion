@@ -1,8 +1,0 @@
-C:\Users\matia\source\repos\Evaluacion2\Cliente\bin\Debug\Cliente.exe.config
-C:\Users\matia\source\repos\Evaluacion2\Cliente\bin\Debug\Cliente.exe
-C:\Users\matia\source\repos\Evaluacion2\Cliente\bin\Debug\Cliente.pdb
-C:\Users\matia\source\repos\Evaluacion2\Cliente\obj\Debug\Cliente.csproj.AssemblyReference.cache
-C:\Users\matia\source\repos\Evaluacion2\Cliente\obj\Debug\Cliente.csproj.SuggestedBindingRedirects.cache
-C:\Users\matia\source\repos\Evaluacion2\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
-C:\Users\matia\source\repos\Evaluacion2\Cliente\obj\Debug\Cliente.exe
-C:\Users\matia\source\repos\Evaluacion2\Cliente\obj\Debug\Cliente.pdb

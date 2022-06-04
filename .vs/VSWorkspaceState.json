@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Medidores",
+    "\\Medidores\\Comunicacion",
+    "\\MedidorModel",
+    "\\MedidorModel\\DAL",
+    "\\ServerSocketUtils"
   ],
-  "SelectedNode": "\\C:\\Users\\matia\\source\\repos\\Trabajo",
+  "SelectedNode": "\\Medidores\\Comunicacion\\HebraServidor.cs",
   "PreviewInSolutionExplorer": false
 }
